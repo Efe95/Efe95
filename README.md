@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Efe95
-- 👀 I’m interested in data and business analytics
+- 👋 Hi, I’m Emoefe Onojete
+- 👀 Junior data and business analyst
 - 🌱 I’m currently learning python for data science on udemy
 - 💞️ I’m looking to collaborate on any data analytics project
 - 📫 How to reach me www.linkedin.com/in/oefe
