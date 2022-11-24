@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emoefe Onojete
 - 👀 Junior data and business analyst
-- 🌱 I’m currently learning python for data science on udemy
+- 🌱 I’m currently studying an MSc in Business / Data analytics
 - 💞️ I’m looking to collaborate on any data analytics project
 - 📫 How to reach me www.linkedin.com/in/oefe
 
